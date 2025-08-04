@@ -46,7 +46,7 @@ python --version
 ### Step 1: Download the Project
 ```bash
 git clone <repo-url>
-cd erp-stock-management
+cd ERP-APP
 ```
 
 ### Step 2: Create Virtual Environment

@@ -86,7 +86,7 @@ python main.py
 1. Enter personnel information from the assignment screen:
    - Full name
    - Floor location (1-10)
-   - Branch (Ankara Main, Ankara Ext, Istanbul)
+   - Location (Ankara Main, Ankara Ext, Istanbul)
 2. Click the **"Add Person"** button
 
 ### Assignment Process

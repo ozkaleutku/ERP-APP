@@ -49,23 +49,12 @@ git clone <repo-url>
 cd ERP-APP
 ```
 
-### Step 2: Create Virtual Environment
-```bash
-python -m venv .venv
-
-# Windows
-.venv\Scripts\activate
-
-# Linux/Mac  
-source .venv/bin/activate
-```
-
-### Step 3: Install Dependencies
+### Step 2: Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 4: Start the Application
+### Step 3: Start the Application
 ```bash
 python main.py
 ```
